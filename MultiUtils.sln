@@ -8,6 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5898991F-D7EE-42B0-9F13-5E7C41EC8752}"
 	ProjectSection(SolutionItems) = preProject
 		README.MD = README.MD
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{98005B65-EC30-4329-B3D8-5770EB2A9A4E}"
+	ProjectSection(SolutionItems) = preProject
 		..\..\..\OneDrive\사진\Screenshot 2021-10-25 124015.png = ..\..\..\OneDrive\사진\Screenshot 2021-10-25 124015.png
 	EndProjectSection
 EndProject
