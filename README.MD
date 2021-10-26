@@ -1,0 +1,1 @@
+![Screenshot shows that a server sends a message which contains damage dealt by players to boss to players]("/Screenshot 2021-10-25 124015.png")
