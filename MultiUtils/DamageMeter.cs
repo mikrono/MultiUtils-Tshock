@@ -7,7 +7,7 @@ using Terraria;
 using TerrariaApi.Server;
 using Microsoft.Xna.Framework;
 
-namespace TestPlugin
+namespace DamageMeter
 {
     [ApiVersion(2, 1)]
     public class DamageMeter : TerrariaPlugin
